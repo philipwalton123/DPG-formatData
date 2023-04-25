@@ -1,0 +1,37 @@
+dns_worker1 :
+[
+no-op
+[
+no-op
+"funny-panda.devopsplayground.org"
+]
+no-op
+[
+no-op
+"sweet-panda.devopsplayground.org"
+]
+no-op
+[
+no-op
+"giant-panda.devopsplayground.org"
+]
+]
+no-op
+worker1_ips :
+[
+no-op
+[
+no-op
+"13.40.164.194"
+]
+no-op
+[
+no-op
+"3.10.198.200"
+]
+no-op
+[
+no-op
+"3.10.198.255"
+]
+]
